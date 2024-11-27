@@ -1,4 +1,9 @@
-## Hi there 👋
+## Cloud Computing Assignment 1 - Build Something
+### About
+
+### Setup
+
+
 
 <!--
 
